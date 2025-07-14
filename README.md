@@ -3,7 +3,7 @@
 <img width="132" height="286" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-14 at 14 23 18" src="https://github.com/user-attachments/assets/3076bb70-3e30-4847-a963-d071a26e8e30" />
 <img width="132" height="286" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-14 at 14 23 50" src="https://github.com/user-attachments/assets/da5f70ed-2df4-49ff-a1e1-21002b1ecaa0" />
 
-<a href="https://github.com/user-attachments/assets/e4729570-0735-4fdb-a146-a3220bd484a7"></a>
+https://github.com/user-attachments/assets/e4729570-0735-4fdb-a146-a3220bd484a7
 
 # Alarms View 
 <img width="132" height="286" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-07-14 at 14 23 56" src="https://github.com/user-attachments/assets/2d3eedb5-2ef1-4083-aa69-9a3dcd9e7662" />
